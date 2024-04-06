@@ -1,5 +1,4 @@
 # message-cleaner-bot
-***
 
 **message-cleaner-bot** - это простой бот, который удаляет _системные_ сообщения Telegram
 
