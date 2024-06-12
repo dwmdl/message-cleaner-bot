@@ -1,5 +1,3 @@
-aWcXeAWJjj@aeW3*P6@ujz.rUwK_@pZoDhQzVtvHnwxviX2u!X!o8YivDfJ-JoJtsmfERnqbJkWYi32WMTczKNp-VmbXK.NnEAo-
-
 
 # message-cleaner-bot
 
